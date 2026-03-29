@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "1PLDK",
+  "base_artist": "秋山優花里 (CV.中上育実)",
+  "createdAt": "2026-03-29T05:12:56.209675Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "1PLDK",
+      "artist": "秋山優花里 (CV.中上育実)",
+      "has_synced": false,
+      "path": "select/01_1PLDK_秋山優花里_(CV.中上育実).txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "1PLDK",
+      "artist": "秋山優花里(CV.中上育実)",
+      "has_synced": false,
+      "path": "select/02_1PLDK_秋山優花里(CV.中上育実).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "1PLDK",
+      "artist": "秋山優花里 (中上育実)",
+      "has_synced": false,
+      "path": "select/03_1PLDK_秋山優花里_(中上育実).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "1PLDK",
+      "artist": "Yukari Akiyama (CV: Ikumi Nakagami)",
+      "has_synced": false,
+      "path": "select/04_1PLDK_Yukari_Akiyama_(CV__Ikumi_Nakagami).txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "1PLDK",
+      "artist": "Yukari Akiyama(CV.Ikumi Nakagami)",
+      "has_synced": false,
+      "path": "select/05_1PLDK_Yukari_Akiyama(CV.Ikumi_Nakagami).txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "1PLDK",
+      "artist": "秋山優花里(中上育実)",
+      "has_synced": false,
+      "path": "select/pl_01_1PLDK_秋山優花里(中上育実).txt"
+    }
+  ]
+}
